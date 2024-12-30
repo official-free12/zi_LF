@@ -1,0 +1,6 @@
+# 紫禁城多语言海外投资理财源码/海外投资返利源码/前端vue纯源码
+
+测试环境：example.com、宝塔、example.com、example.com，根目录public，伪静态thinkphp，开启ssl证书<br>语言：中文简体、英文、越南语、马来语、日语、巴西语、印尼语、泰语<br>前端是uniapp的源码，我已经把nmp给你们安装好了直接拿去编译就行，不然丢原版给你们有好多人都不会搞<br>都是全开源，可玩性还是蛮高的，拿去玩呗<br>数据库修改：/config/example.com<br>后端域名修改：example.com为自己的后端域名<br>前端域名修改：解压前端文件包打开src/interface/example.com，example.com替换为自己的后端域名<br>邮件配置修改：/vendor/phpmailer/src/example.com<br>前端测试账号：example.com@example.com<br>密码：123456<br>后台：/admin<br>账号：admin<br>密码：example.com<br>添加两个定时任务：自动结算分红、自动进度增长<br>自动结算分红：域名/index/index/item_crontab1分钟执行一次<br>自动进度增长：域名/index/index/item_auto_percent30分钟执行一次<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/WJDqT" style="color: red;">https://mega-file.org/WJDqT</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
